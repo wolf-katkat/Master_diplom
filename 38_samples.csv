@@ -1,0 +1,39 @@
+SRA,Organism in the experiment,Accesion_number,Is_RNA_seq,Title,Accession,GSM_Title,Metadata_unique_form
+SRR27960690,Lactococcus lactis subsp. lactis,GSE255719,TRUE,Unveiling the regulatory network controlling natural transformation in lactococci,GSM8078375,ComXoxp_M17X,WT_comX_over
+SRR27960691,Lactococcus lactis subsp. lactis,GSE255719,TRUE,Unveiling the regulatory network controlling natural transformation in lactococci,GSM8078374,CovRS_CDM,WT_vector_empty
+SRR27960692,Lactococcus lactis subsp. lactis,GSE255719,TRUE,Unveiling the regulatory network controlling natural transformation in lactococci,GSM8078373,CodY_CDMDEB,WT_vector_empty
+SRR27960693,Lactococcus lactis subsp. lactis,GSE255719,TRUE,Unveiling the regulatory network controlling natural transformation in lactococci,GSM8078372,WT_M17X,WT_vector_empty
+SRR27960694,Lactococcus lactis subsp. lactis,GSE255719,TRUE,Unveiling the regulatory network controlling natural transformation in lactococci,GSM8078371,WT_CDM,WT_covRS_del
+SRR27960695,Lactococcus lactis subsp. lactis,GSE255719,TRUE,Unveiling the regulatory network controlling natural transformation in lactococci,GSM8078370,WT_CDMDEB,WT_codY_del
+SRR6308321,Lactococcus lactis subsp. lactis,GSE107137,TRUE,Transcriptome analysis of L.lactis F44 and G423: insights into adaptation to acidic environment,GSM2861631,G423pH7,G423_pH7
+SRR6308319,Lactococcus lactis subsp. lactis,GSE107137,TRUE,Transcriptome analysis of L.lactis F44 and G423: insights into adaptation to acidic environment,GSM2861629,F44pH7,F44_pH7
+SRR6308322,Lactococcus lactis subsp. lactis,GSE107137,TRUE,Transcriptome analysis of L.lactis F44 and G423: insights into adaptation to acidic environment,GSM2861632,G423pH4,G423_pH4
+SRR6308320,Lactococcus lactis subsp. lactis,GSE107137,TRUE,Transcriptome analysis of L.lactis F44 and G423: insights into adaptation to acidic environment,GSM2861630,F44pH4,F44_pH4
+SRR12855352,Lactococcus lactis subsp. lactis,SAMN16482513,TRUE,Lactococcus lactis subsp. lactis biovar diacetylactis SD96 and thermotolerant mutants thereof (RD01 and RD07) are studied using RNA-sequencing-based transcriptomics analysis.,BGISEQ-500,RD01_30,RD01_30
+SRR12855353,Lactococcus lactis subsp. lactis,SAMN16482513,TRUE,Lactococcus lactis subsp. lactis biovar diacetylactis SD96 and thermotolerant mutants thereof (RD01 and RD07) are studied using RNA-sequencing-based transcriptomics analysis.,BGISEQ-500,RD01_30,RD01_30
+SRR12855358,Lactococcus lactis subsp. lactis,SAMN16482502,TRUE,Lactococcus lactis subsp. lactis biovar diacetylactis SD96 and thermotolerant mutants thereof (RD01 and RD07) are studied using RNA-sequencing-based transcriptomics analysis.,BGISEQ-500,SD96_39,SD96_39
+SRR12855359,Lactococcus lactis subsp. lactis,SAMN16482502,TRUE,Lactococcus lactis subsp. lactis biovar diacetylactis SD96 and thermotolerant mutants thereof (RD01 and RD07) are studied using RNA-sequencing-based transcriptomics analysis.,BGISEQ-500,SD96_39,SD96_39
+SRR12855360,Lactococcus lactis subsp. lactis,SAMN16482517,TRUE,Lactococcus lactis subsp. lactis biovar diacetylactis SD96 and thermotolerant mutants thereof (RD01 and RD07) are studied using RNA-sequencing-based transcriptomics analysis.,BGISEQ-500,RD07_39,RD07_39
+SRR12855361,Lactococcus lactis subsp. lactis,SAMN16482517,TRUE,Lactococcus lactis subsp. lactis biovar diacetylactis SD96 and thermotolerant mutants thereof (RD01 and RD07) are studied using RNA-sequencing-based transcriptomics analysis.,BGISEQ-500,RD07_39,RD07_39
+SRR12855362,Lactococcus lactis subsp. lactis,SAMN16482516,TRUE,Lactococcus lactis subsp. lactis biovar diacetylactis SD96 and thermotolerant mutants thereof (RD01 and RD07) are studied using RNA-sequencing-based transcriptomics analysis.,BGISEQ-500,RD07_30,RD07_30
+SRR12855363,Lactococcus lactis subsp. lactis,SAMN16482516,TRUE,Lactococcus lactis subsp. lactis biovar diacetylactis SD96 and thermotolerant mutants thereof (RD01 and RD07) are studied using RNA-sequencing-based transcriptomics analysis.,BGISEQ-500,RD07_30,RD07_30
+SRR12855364,Lactococcus lactis subsp. lactis,SAMN16482515,TRUE,Lactococcus lactis subsp. lactis biovar diacetylactis SD96 and thermotolerant mutants thereof (RD01 and RD07) are studied using RNA-sequencing-based transcriptomics analysis.,BGISEQ-500,RD01_39,RD01_39
+SRR12855365,Lactococcus lactis subsp. lactis,SAMN16482515,TRUE,Lactococcus lactis subsp. lactis biovar diacetylactis SD96 and thermotolerant mutants thereof (RD01 and RD07) are studied using RNA-sequencing-based transcriptomics analysis.,BGISEQ-500,RD01_39,RD01_39
+SRR12855366,Lactococcus lactis subsp. lactis,SAMN16482504,TRUE,Lactococcus lactis subsp. lactis biovar diacetylactis SD96 and thermotolerant mutants thereof (RD01 and RD07) are studied using RNA-sequencing-based transcriptomics analysis.,BGISEQ-500,SD96_30,SD96_30
+SRR12855367,Lactococcus lactis subsp. lactis,SAMN16482504,TRUE,Lactococcus lactis subsp. lactis biovar diacetylactis SD96 and thermotolerant mutants thereof (RD01 and RD07) are studied using RNA-sequencing-based transcriptomics analysis.,BGISEQ-500,SD96_30,SD96_30
+SRR12855354,L. lactis subsp. lactis biovar diacetylactis JA24 RNA-Seq Heat Stress,SAMN16482512,TRUE,Lactococcus lactis subsp. lactis biovar diacetylactis SD96 and thermotolerant mutants thereof (RD01 and RD07) are studied using RNA-sequencing-based transcriptomics analysis.,SRX9322318,,JA24_39
+SRR12855355,L. lactis subsp. lactis biovar diacetylactis JA24 RNA-Seq Heat Stress,SAMN16482512,TRUE,Lactococcus lactis subsp. lactis biovar diacetylactis SD96 and thermotolerant mutants thereof (RD01 and RD07) are studied using RNA-sequencing-based transcriptomics analysis.,SRX9322319,,JA24_39
+SRR12855356,L. lactis subsp. lactis biovar diacetylactis JA24 RNA-Seq Control,SAMN16482512,TRUE,Lactococcus lactis subsp. lactis biovar diacetylactis SD96 and thermotolerant mutants thereof (RD01 and RD07) are studied using RNA-sequencing-based transcriptomics analysis.,SRX9322317,,JA24_30
+SRR12855357,L. lactis subsp. lactis biovar diacetylactis JA24 RNA-Seq Control,SAMN16482511,TRUE,Lactococcus lactis subsp. lactis biovar diacetylactis SD96 and thermotolerant mutants thereof (RD01 and RD07) are studied using RNA-sequencing-based transcriptomics analysis.,SRX9322316,,JA24_30
+SRR31020686,Lactococcus lactis subsp. lactis,SAMN44270428,TRUE,,SRX26407794,Lactoco_low_R5,Lactoco_low_R5
+SRR31020687,Lactococcus lactis subsp. lactis,SAMN44270427,TRUE,,SRX26407793,Lactoco_low_R4,Lactoco_low_R4
+SRR31020688,Lactococcus lactis subsp. lactis,SAMN44270426,TRUE,,SRX26407792,Lactoco_low_R3,Lactoco_low_R3
+SRR31020689,Lactococcus lactis subsp. lactis,SAMN44270425,TRUE,,SRX26407791,Lactoco_low_R2,Lactoco_low_R2
+SRR31020690,Lactococcus lactis subsp. lactis,SAMN44270424,TRUE,,SRX26407790,Lactoco_low_R1,Lactoco_low_R1
+SRR31020740,Lactococcus lactis subsp. lactis,SAMN44270443,TRUE,,SRX26407740,Lactoco_high_R5,Lactoco_high_R5
+SRR31020741,Lactococcus lactis subsp. lactis,SAMN44270442,TRUE,,SRX26407739,Lactoco_high_R4,Lactoco_high_R4
+SRR31020742,Lactococcus lactis subsp. lactis,SAMN44270441,TRUE,,SRX26407738,Lactoco_high_R3,Lactoco_high_R3
+SRR31020743,Lactococcus lactis subsp. lactis,SAMN44270440,TRUE,,SRX26407737,Lactoco_high_R2,Lactoco_high_R2
+SRR31020744,Lactococcus lactis subsp. lactis,SAMN44270439,TRUE,,SRX26407736,Lactoco_high_R1,Lactoco_high_R1
+SRR24474740,Lactococcus lactis subsp. lactis,GSE231968,TRUE,"Time-series ribosome profiling experiment. It consists of mock and sk1 bacteriophage infected samples of Lactococcus Lactis at three different timepoints; 2,5 and 15 minutes post infection",GSM7306561,"Mock_RNAseq,15min, rep1",Mock_15min
+SRR24474742,Lactococcus lactis subsp. lactis,GSE231968,TRUE,"Time-series ribosome profiling experiment. It consists of mock and sk1 bacteriophage infected samples of Lactococcus Lactis at three different timepoints; 2,5 and 15 minutes post infection",GSM7306559,"Mock_RNAseq,2min, rep2",Mock_2min
